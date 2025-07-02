@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:128.0) Gecko/20100101 Firefox/128.0" version="27.1.6">
   <diagram name="Page-1" id="ECJ21p_r8LSvbzHPrfnt">
-    <mxGraphModel dx="2037" dy="1256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1962,6 +1962,18 @@
         </mxCell>
         <mxCell id="evgmPP-73fVV3Miw3QVf-480" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0.5;" vertex="1" parent="1">
           <mxGeometry x="1430" y="430" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="evgmPP-73fVV3Miw3QVf-481" value="dielectric fitting" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="850" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evgmPP-73fVV3Miw3QVf-482" value="dielectric fitting" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1449.75" y="270" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evgmPP-73fVV3Miw3QVf-483" value="preheater" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1371" y="903" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="evgmPP-73fVV3Miw3QVf-484" value="&lt;div&gt;post-&lt;/div&gt;&lt;div&gt;heater&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="257" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
